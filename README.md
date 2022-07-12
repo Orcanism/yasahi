@@ -1,2 +1,2 @@
 # yasahi
-Discord Bo
+Discord Bot

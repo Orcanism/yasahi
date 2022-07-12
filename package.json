@@ -1,0 +1,25 @@
+{
+  "name": "yasahi",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orcanism/yasahi.git"
+  },
+  "author": "orcanism",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orcanism/yasahi/issues"
+  },
+  "homepage": "https://github.com/Orcanism/yasahi#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "jsdom": "^20.0.0"
+  }
+}
